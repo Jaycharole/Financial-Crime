@@ -4,11 +4,11 @@
 
 Before going deep into the project this are some of the documentation which will help for better understanding of the project. 
 
-You can interact with Live Project by clicking on the link [Live Project Preview](https://linktodocumentation) 
+You can interact with Live Project by clicking on the link 
 
-[Project Video](https://linktodocumentation)
+[Live Project Preview](https://public.tableau.com/views/Book1_16548531525640/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
-[Project Demonstration](https://linktodocumentation)
+[Project Video](https://youtu.be/LcdDRPglvRA)
 
 [Project Report](https://github.com/Jaycharole/Financial-Crime/blob/main/Documentation/Financial%20Crime%20Report.pdf)
 
@@ -70,15 +70,20 @@ There are 3 datasets mentioned here: alerts, transactions and accounts.
   </tr>
 </table>
 
+## Working
+
+### Dashboard
+
+![Financial Crime Dashboard](https://user-images.githubusercontent.com/49811782/173035188-945ee53c-5187-4820-be89-339940904081.gif)
+
+### Exploratory Data Analysis
+
+![Financial Crime EDA](https://user-images.githubusercontent.com/49811782/173035225-ca79c696-22b7-4a4e-bcee-2fa7639d0b36.gif)
 
 
 ## 🚀 Feedback
 
 If you have any feedback, please reach out to us at jaycharole@gmail.com
-
-## 🚀 Screen Shot
-
-![image](https://user-images.githubusercontent.com/49811782/172948991-e163e36f-fb0e-4028-8bae-788a17c91f67.png)
 
 
 
